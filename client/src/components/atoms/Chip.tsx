@@ -1,9 +1,5 @@
-import React from 'react'
-
 function Chip() {
-  return (
-    <div>Chip</div>
-  )
+  return <div>Chip</div>;
 }
 
-export default Chip
+export default Chip;
