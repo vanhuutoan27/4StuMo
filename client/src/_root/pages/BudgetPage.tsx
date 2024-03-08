@@ -1,5 +1,8 @@
+
 function BudgetPage() {
-  return <div>BudgetPage</div>
+  return (
+    <div>BudgetPage</div>
+  )
 }
 
 export default BudgetPage
